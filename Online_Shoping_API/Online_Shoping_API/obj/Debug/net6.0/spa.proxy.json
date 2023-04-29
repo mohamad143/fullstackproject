@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\User\\Desktop\\asp.netcoreApi\\fullstack\\Online_Shoping_API\\Online_Shoping_API",
+"MaxTimeoutInSeconds": "120"
+}
+}
