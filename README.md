@@ -20,7 +20,10 @@ you need to install 3 files :
 
 For any problems you encounter, you can contact me by e-mail:bdran1474@gmail.com
 
+# Azure and Netlify
+I deployed the backend (api and db) by Azure and the the client side (reactjs) by Netlify.
 
+link:https://647aee85da391b54b62a1d91--incredible-chimera-082294.netlify.app/
 
 
 
