@@ -96,12 +96,12 @@ const WepProvider = ({ children }) => {
   
   useEffect(() => {
     localStorage.setItem("shopping-cart", JSON.stringify(cartItems));
-    getUserdata()
     getInformtionItems()
   }, [cartItems]);
-  useEffect(()=>{
+ useEffect(()=>{
     getuser()
-  },[])
+    getUserdata()
+  },[UserData])
   useEffect(() => {
     getStoreIteams()
     
