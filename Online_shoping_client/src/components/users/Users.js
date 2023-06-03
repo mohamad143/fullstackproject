@@ -8,12 +8,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const Users=()=>{
   
-    const { UserData,DeleteUser,getUserdata } = useWepContext();
-    useEffect(()=>{
-      getUserdata()
-
-    },[UserData])
-    
+    const { UserData,DeleteUser } = useWepContext();
+   
 
 
 
